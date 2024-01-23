@@ -1,0 +1,23 @@
+#main{
+    background-color: white;
+    margin: 0 auto 0 auto;
+}
+
+.row{
+    display: flex;
+    padding-top: 1px;
+}
+
+.row div{
+    margin: 1em;
+    flex: 1;
+    background-color: gray;
+    text-align: center;
+    height: 3em;
+    padding-top: 30px;
+}
+
+#calc{
+    background-color: aqua;
+    text-align: right;
+}
